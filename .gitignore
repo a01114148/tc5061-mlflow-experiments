@@ -1,0 +1,15 @@
+.venv/
+mlruns/
+confusion_matrix_*
+mlflow.db
+
+# --- IDE: PyCharm / JetBrains ---
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+*.log
+
+# --- macOS ---
+.DS_Store
